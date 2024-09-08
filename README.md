@@ -1,4 +1,5 @@
 # MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval
+[![Paper](https://img.shields.io/badge/Paper-arxiv.2408.10575-FF6B6B.svg)](https://www.arxiv.org/pdf/2408.10575)
 
 This is an official implementation of MUSE built on model [CLIP4clip](https://github.com/ArrowLuo/CLIP4Clip).
 
@@ -37,4 +38,4 @@ bash train_msrvtt.sh
 ```
 
 # Acknowledgments
-Our code is based on [CLIP](https://github.com/openai/CLIP) and [CLIP4clip](https://github.com/ArrowLuo/CLIP4Clip).
+Our code is based on [CLIP](https://github.com/openai/CLIP), [CLIP4clip](https://github.com/ArrowLuo/CLIP4Clip) and [Vim](https://github.com/doodleima/vision_mamba).
