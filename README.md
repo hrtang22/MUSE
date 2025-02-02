@@ -1,6 +1,8 @@
 # MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2408.10575-FF6B6B.svg)](https://www.arxiv.org/pdf/2408.10575)
 
+🔥News: Our paper is accepted by AAAI 2025.
+
 This is an official implementation of MUSE built on model [CLIP4clip](https://github.com/ArrowLuo/CLIP4Clip).
 
 ![MUSE](./pictures/MUSE_1.png)
